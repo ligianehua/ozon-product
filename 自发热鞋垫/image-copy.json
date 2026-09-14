@@ -1,0 +1,17 @@
+[
+  {
+    "source": "图片_20260914105932_26_36.jpg",
+    "output": "images-ru/26-ru.png",
+    "prompt": "Use case text-localization. Translate only Chinese advertising lettering to Russian; keep original design, snowboarder identity pose clothes, snow, two insoles, existing Russian product packaging, logos and badge. No new certification symbols or claims. All Russian must be readable and contained. Top banner 俄罗斯专供 → «Для российского рынка». Main title 自发热鞋垫 → «Самонагревающиеся стельки», split into two lines. Preserve OEM ODM. Certification badge heading 资质齐全 → «Полный комплект документов» and English CERTIFICATE → «СЕРТИФИКАТЫ», fit small text; preserve existing CE ISO ISO9001 FDA MSDS marks exactly as source. Bottom left 源头工厂 → «Напрямую с фабрики». Bottom white band 12小时发热 包装/尺寸/温度可定制 → «Нагрев 12 часов» / «Упаковка, размер и температура — на заказ». Bottom dark band 日产百万 快速发货 → «Миллион в день • Быстрая отправка». Existing Russian text on package remains unchanged. Do not add “verified”, “approved” or any new guarantee."
+  },
+  {
+    "source": "图片_20260914105934_29_36.jpg",
+    "output": "images-ru/29-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied product infographic, translate all Chinese into Russian. Preserve red gradient border, white card, four product photos and positions exactly; do not redesign product or add claims. Fit legible text, wrap captions to 2 lines if needed, no clipping. Top header «Преимущества». Main black line «Все размеры • Порошок не высыпается • Самонагрев». Red feature line «Новое сырьё • Аккуратное изготовление» / «Равномерная воздухопроницаемость • Стабильный нагрев». Top left caption «Активный железный порошок — тепло дольше». Top right caption «Цельный крой • Ультратонкий дизайн». Bottom left caption «Качественный нетканый материал: пропускает воздух и удерживает порошок». Bottom right caption «Большая площадь нагрева — тепло для всей стопы»."
+  },
+  {
+    "source": "图片_20260914105935_30_36.jpg",
+    "output": "images-ru/30-original-ru.jpg",
+    "prompt": "Already Russian; original retained unchanged"
+  }
+]

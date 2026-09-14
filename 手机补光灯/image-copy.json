@@ -1,0 +1,44 @@
+[
+  {
+    "index": 1,
+    "source": "codex-clipboard-c04ba3c6-e455-42b6-bb4f-5e9b95220936.png",
+    "output": "images-ru/01-parameters-ru.png",
+    "instruction": "Edit supplier specification screenshot to Russian. Preserve every original numeric value and unit, table layout and all rows; do not infer corrections even inconsistent units. Readable Russian no clipping. Top tabs «Характеристики» «Упаковка» «Описание» «Рекомендации». Heading «Характеристики». Six fields: «Мощность» / «Менее 10 Вт»; «Функция» / «Магнитное крепление»; «Напряжение» / «12 В»; «Тип» / «Подсветка для смартфона»; «Бренд» / «Без бренда»; «Способ крепления» / «Магнитный». Table rows: «Размеры» «58 × 16 × 136 мм»; «Артикул» «K3»; «Изготовление на заказ» «Доступно»; «Импорт» «Нет»; «Код заказа» «K3»; «Применение» «Трансляции со смартфона, аварийное освещение»; «Каналы сбыта» «Местная и трансграничная интернет-торговля, розничные магазины»; «Только для экспорта» «Нет». Button «Показать всё». Heading «Упаковка», subheading «Размеры и масса товара». Bottom headers «Вариант» «Длина (см)» «Ширина (см)» «Высота (см)» «Объём (см³)» «Масса (г)». Row «Мягкий свет для трансляций, классический чёрный» «58» «16» «136» «126208» «70». Preserve these bottom units cm even though upper mm contradicts them; this is literal translation of supplied document, not correction."
+  },
+  {
+    "index": 2,
+    "source": "O1CN01XLool23VE8K1chua_!!2214731014214-0-cib.jpg",
+    "output": "images-ru/02-original.jpg",
+    "instruction": "No text; unchanged original."
+  },
+  {
+    "index": 3,
+    "source": "O1CN019yy8O5HLssG1chua_!!2214731014214-0-cib.jpg",
+    "output": "images-ru/03-ru.png",
+    "instruction": "Use case text-localization. Preserve product ring lights, phone and magnetic ring exact geometry, colors, white podiums and blue backdrop. Replace Chinese only, keep MagSafe. Main title «Магнитная подсветка». Top right pills «Прикрепите — и пользуйтесь» and «3 режима цветовой температуры». Readable Russian, no clipping, adjust font sizes to fit."
+  },
+  {
+    "index": 4,
+    "source": "O1CN013mkLb5uh85K1chua_!!2214731014214-0-cib.jpg",
+    "output": "images-ru/04-ru.png",
+    "instruction": "Use case text-localization. Preserve phone, light and magnet illustration geometry and all product photos. Replace Chinese title with «Надёжное крепление — без страха падения». Bottom heading «Подходит для». Bottom text «Смартфонов с MagSafe или для использования с магнитным адаптером». Readable Russian with no clipping, keep blue/white layout. Do not add certification or new compatibility claims."
+  },
+  {
+    "index": 5,
+    "source": "O1CN01KFEWailrnpJ1chua_!!2214731014214-0-cib.jpg",
+    "output": "images-ru/05-ru.png",
+    "instruction": "Use case text-localization. Replace only top Chinese headline with two readable Russian lines «Прикрепите и снимайте» / «Добавьте снимкам объём». Preserve adult woman identity face pose expression, phone and light exact geometry, color and placement, original blue background and rounded photo. Do not change product or add claims."
+  },
+  {
+    "index": 6,
+    "source": "O1CN01YBLB3U4v4ZI1chua_!!2214731014214-0-cib.jpg",
+    "output": "images-ru/06-ru.png",
+    "instruction": "Use case text-localization. Preserve three adult portraits and original cooler/neutral/warmer lighting, blue panel and slider layout exactly. Replace headline with «Три оттенка света» / «Регулируемая яркость». Under portraits left «Холодный» middle «Мягкий» right «Тёплый». Under upper slider «Цветовая температура», preserve left 8500 K right 2500 K exactly. Under bottom slider «Яркость», preserve left 10% right 100%. Russian type must be legible and no clipping. No added features."
+  },
+  {
+    "index": 7,
+    "source": "codex-clipboard-176fe8ca-f13a-40ea-aa50-adb781e21bd7.jpg",
+    "output": "images-ru/07-ru.png",
+    "instruction": "Exact duplicate of image 6; reuse Russian output."
+  }
+]

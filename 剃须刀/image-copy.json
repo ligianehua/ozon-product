@@ -1,0 +1,42 @@
+[
+  {
+    "source": "图片_20260914100850_2_36.jpg",
+    "output": "images-ru/01-ru.png",
+    "translation": "Headline: «Просто и удобно» / «Замена одним нажатием». Body: «Нажмите кнопку на ручке вниз, чтобы отсоединить кассету. Безопасно и удобно.»"
+  },
+  {
+    "source": "图片_20260914100851_3_36.jpg",
+    "output": "images-ru/02-ru.png",
+    "translation": "Headline: «Бритвенный станок»"
+  },
+  {
+    "source": "图片_20260914100852_4_36.jpg",
+    "output": "images-ru/03-ru.png",
+    "translation": "Replace measurements only: 2.5CM → «2,5 см»; 12CM → «12 см»; 10CM → «10 см»; 4CM → «4 см»; 0.8CM → «0,8 см». Preserve even potentially inconsistent supplier values exactly."
+  },
+  {
+    "source": "图片_20260914100853_5_36.jpg",
+    "output": "images-ru/04-ru.png",
+    "translation": "Top badge: «Обновлённая модель». Top heading: «Новая нанотехнология • Два ультратонких лезвия». Center red: «В наличии • Дропшиппинг». Bottom blue: «Быстрая отправка»."
+  },
+  {
+    "source": "图片_20260914100854_6_36.jpg",
+    "output": "images-ru/05-ru.png",
+    "translation": "Bottom red banner, use two readable lines: «1 станок + 36 сменных кассет» / «+ крем для бритья». Gift badge: «В подарок». Tube: preserve Latin brand Ginaili, replace Chinese brand characters with nothing (Latin brand already identifies it), SHAVING CREAM and 剃须膏 with «Крем для бритья», 净含量：30克 with «Масса нетто: 30 г»."
+  },
+  {
+    "source": "图片_20260914100855_7_36.jpg",
+    "output": "images-ru/06-ru.png",
+    "translation": "Bottom red banner two readable lines: «2 станка + 42 сменные кассеты» / «+ 1 футляр». Gift badge: «В подарок»."
+  },
+  {
+    "source": "图片_20260914100856_8_36.jpg",
+    "output": "images-ru/07-ru.png",
+    "translation": "Bottom red banner two readable lines: «1 станок + 48 сменных кассет» / «+ 1 футляр + крем для бритья». Both gift badges: «В подарок». Tube: preserve Latin brand Ginaili, replace Chinese brand characters with nothing (Latin brand already identifies it), SHAVING CREAM and 剃须膏 with «Крем для бритья», 净含量：30克 with «Масса нетто: 30 г»."
+  },
+  {
+    "source": "图片_20260914100857_9_36.jpg",
+    "output": "images-ru/08-ru.png",
+    "translation": "Bottom red banner: «60 сменных кассет». Preserve original product grid exactly; translate stated count 60 without trying to infer or correct count from montage."
+  }
+]

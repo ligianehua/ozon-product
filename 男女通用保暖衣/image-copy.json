@@ -1,0 +1,104 @@
+[
+  {
+    "number": 31,
+    "source": "图片_20260914110320_31_36.jpg",
+    "output": "images-ru/31-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Светло-серый"
+  },
+  {
+    "number": 32,
+    "source": "图片_20260914110321_32_36.jpg",
+    "output": "images-ru/32-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Кэмел"
+  },
+  {
+    "number": 33,
+    "source": "图片_20260914110322_33_36.jpg",
+    "output": "images-ru/33-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Тёмно-синий"
+  },
+  {
+    "number": 34,
+    "source": "图片_20260914110322_34_36.jpg",
+    "output": "images-ru/34-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Тёмно-серый"
+  },
+  {
+    "number": 36,
+    "source": "图片_20260914110324_36_36.jpg",
+    "output": "images-ru/36-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Чайно-зелёный"
+  },
+  {
+    "number": 37,
+    "source": "图片_20260914110325_37_36.jpg",
+    "output": "images-ru/37-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Красный"
+  },
+  {
+    "number": 38,
+    "source": "图片_20260914110326_38_36.jpg",
+    "output": "images-ru/38-ru.png",
+    "prompt": "Use case text-localization. Replace all Chinese text on this flat-lay garment photo with Russian, preserve garments, folds, colors, fabric texture, cocoons and arrangement exactly. Readable brown text with hierarchy, no clipping. Exact text: headline «Мягкость и тепло в каждой детали»; subheading «Тепло для зимних дней»; central heading «Шерсть + шёлк»; paragraph «Каждый из этих материалов ценится в качественном белье. Мы объединили три вида сырья, чтобы придать тёплому белью роскошный комфорт.» Do not invent the third material or percentages. No other text."
+  },
+  {
+    "number": 39,
+    "source": "图片_20260914110327_39_36.jpg",
+    "output": "images-ru/39-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Чёрный"
+  },
+  {
+    "number": 40,
+    "source": "图片_20260914110327_40_36.jpg",
+    "output": "images-ru/40-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Розовый"
+  },
+  {
+    "number": 41,
+    "source": "图片_20260914110328_41_36.jpg",
+    "output": "images-ru/41-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Кэмел"
+  },
+  {
+    "number": 42,
+    "source": "图片_20260914110329_42_36.jpg",
+    "output": "images-ru/42-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Мужской комплект / Чёрный"
+  },
+  {
+    "number": 43,
+    "source": "图片_20260914110330_43_36.jpg",
+    "output": "images-ru/43-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Розово-красный"
+  },
+  {
+    "number": 44,
+    "source": "图片_20260914110331_44_36.jpg",
+    "output": "images-ru/44-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Красный"
+  },
+  {
+    "number": 45,
+    "source": "图片_20260914110332_45_36.jpg",
+    "output": "images-ru/45-ru.png",
+    "prompt": "Use case: text-localization. Edit supplied image, ONLY replace Chinese lettering with readable Russian. Strictly preserve adult model identity, face, pose, body, garment fit, seams, garment color and fabric texture, original beige/brown layout, icons and background; do not redesign or add objects or claims. All Russian must fit without clipping or overlapping. Left headline: «Премиальное качество». Under headline: «Тёплый комплект» / «Шерсть и шёлк». Three icon labels: left «Шерсть» / «Сохраняет тепло»; middle «Удержание тепла» / «Постоянное тепло»; right «Шёлк тутового шелкопряда» / «Забота о коже». Use small readable fonts and appropriate line breaks in narrow icon panels. Top right badge must be widened slightly if necessary for horizontal Russian text, not vertical letters. Badge text: Женский комплект / Фиолетовый"
+  },
+  {
+    "number": 46,
+    "source": "图片_20260914110332_46_36.jpg",
+    "output": "images-ru/46-ru.png",
+    "prompt": "Use case text-localization. ONLY replace Chinese bottom lettering with readable white Russian text. Preserve both adult models exact identity, face, pose, garment shapes, colors purple and dark blue, fabric texture, lighting and composition. Main headline in two lines: «Кашемир сохраняет тепло» / «Шёлк заботится о коже». Smaller subtitle: «Парные комплекты из шерсти и шёлка». Do not add claims or objects. Keep typography entirely within image."
+  },
+  {
+    "number": 47,
+    "source": "图片_20260914110333_47_36.jpg",
+    "output": "images-ru/47-ru.png",
+    "prompt": "Use case text-localization. ONLY translate Chinese text into Russian. Preserve two adult models identity, faces, poses, garment colors and fabric, layout and background exactly. Bottom headline two lines: «Кашемир сохраняет тепло» / «Шёлк увлажняет кожу». Smaller subtitle: «Парные комплекты из шерсти и шёлка». Gold shield top right: retain «5A», replace 抗菌 with «Антибактериальная защита», use readable small type over 2-3 lines, enlarge shield modestly if needed within blank area, do not cover faces. No added claims."
+  },
+  {
+    "number": 48,
+    "source": "图片_20260914110334_48_36.jpg",
+    "output": "images-ru/48-ru.png",
+    "prompt": "Use case text-localization. Replace top Chinese advertising text only with Russian. Preserve exactly four hanging tops beige, green, blue, black and stacked matching bottoms, hangers, cocoons, cream backdrop and product texture. Headline: «Шелковистый велюр — забота о коже». Subtitle: «Нежность внутри, тепло снаружи — новый уровень комфорта». Fit within original header area with line breaks if needed, brown/gold lettering, no overlap onto clothes. This is translation of supplier fabric marketing term, do not add composition percentages."
+  }
+]

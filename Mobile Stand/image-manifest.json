@@ -1,0 +1,338 @@
+[
+  {
+    "number": 186,
+    "original": "originals/图片_20260914092328_186_1.jpg",
+    "output": "images-ru/186-ru.png",
+    "original_sha256": "8B814BCF4ACB5F6B862D29CCD33EA2DBEE2509AC8D4DEAC2F12A79868C0D4853",
+    "output_sha256": "A21A4ED5063A3C96108275C979F0A5578E2F965BA6332E041C28C9AA4D14118E",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 187,
+    "original": "originals/图片_20260914092330_187_1.jpg",
+    "output": "images-ru/187-ru.png",
+    "original_sha256": "7D4FC26992166D740691CF9DADE23819AD93ED0C367A52763B8061338D6EA54D",
+    "output_sha256": "A0EE27597EC9E107520AAA3C5EED3CDEFA6BF61003EC99B9B56361F25F13151B",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 188,
+    "original": "originals/图片_20260914092332_188_1.jpg",
+    "output": "images-ru/188-ru.png",
+    "original_sha256": "7E86DF9695900DEAFA4BB0245E3071DAA48501F6BAA53686A46E146500A7ABE7",
+    "output_sha256": "48677AFC9E43CC0C8D8F1888560941E0BB538A756B080BD173AAE36D8EF9484B",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 189,
+    "original": "originals/图片_20260914092337_189_1.jpg",
+    "output": "images-ru/189-ru.png",
+    "original_sha256": "8458E35B63166524E63EB34A318F03008A1776BB10F9AFF09D89A492BDB95DFB",
+    "output_sha256": "4BED4A2AE8D517FE3A76333DD105A3CD884BA5321D6DF7B9DD64299CE07C2509",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 190,
+    "original": "originals/图片_20260914092339_190_1.jpg",
+    "output": "images-ru/190-ru.png",
+    "original_sha256": "657B30F24F772260106C3A9E954E45B39C67A4FD91597E8DE27DBAD7D14BF058",
+    "output_sha256": "E2DDD9C74CC33C468FA5F0DB0EB1DD92F219AF76CCA95C9E1334FE9A573185E2",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 191,
+    "original": "originals/图片_20260914092342_191_1.jpg",
+    "output": "images-ru/191-ru.png",
+    "original_sha256": "ABF7C3204E0070E1ED8FC60DE0F380C8D75DA4E8AAF19CCDCDC25D4F3CA24778",
+    "output_sha256": "EEFC6E204FA5E6EB8649598D71B7F9B2F5CC677830A18138E0FF78DDF4E9F5CF",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 192,
+    "original": "originals/图片_20260914092344_192_1.jpg",
+    "output": "images-ru/192-ru.png",
+    "original_sha256": "F9B31559FC02A404157987A5AC20EC8E1E3145A78A3E7FA9BCCDF1175D7CD42E",
+    "output_sha256": "50A40A76A70925432F18B810048A16074AD4387AF17F829B3A2E1F7D60E375A2",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 193,
+    "original": "originals/图片_20260914092346_193_1.jpg",
+    "output": "images-ru/193-ru.png",
+    "original_sha256": "C18F6C04C66E07452E6D4AB7E9187A5E220C26A5555433B9ED1DBDCB58A9917B",
+    "output_sha256": "81C80F35812D8CE05D006B52E90EA2CC2C9B23C15063F36EF2084EC003B2B69D",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 194,
+    "original": "originals/图片_20260914092347_194_1.jpg",
+    "output": "images-ru/194-ru.png",
+    "original_sha256": "9BBFEACFFB386C85B67AC35D8086B0B5A913ACAA507127A79159CD13BBCE7BD5",
+    "output_sha256": "C9A23B032761B0A74872D6E258E550DBC58DE4A9E588BB1ED5FAA3A543B72240",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 195,
+    "original": "originals/图片_20260914092349_195_1.jpg",
+    "output": "images-ru/195-ru.png",
+    "original_sha256": "BF95D45ED5D8602433B8771A928E5D55B61511CB8A6CA430EB3DF9803EF296F6",
+    "output_sha256": "82452FBF6224CBEE698193EB1A29943D872BC79D6939F287DE91208B60EC3E18",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 196,
+    "original": "originals/图片_20260914092351_196_1.jpg",
+    "output": "images-ru/196-ru.png",
+    "original_sha256": "5C821FC22AB417EE8139ABD79F245F7396FF9045ACB761A13F7FF495DBA9421C",
+    "output_sha256": "B9E4E6A97F70AFE37DABCC6E07CCDF3E71FF02A78DB6FF55365D58BCCCD937B0",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 197,
+    "original": "originals/图片_20260914092352_197_1.jpg",
+    "output": "images-ru/197-ru.png",
+    "original_sha256": "EEE2F879E3AFCD27D72675173577834E1F5A69BEB3F6C305EED5B24D590FDD67",
+    "output_sha256": "7DF5BA3318919A82E147836A3C631290C7580243AF97A390FA94CA0CCEFC4B59",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 198,
+    "original": "originals/图片_20260914092354_198_1.jpg",
+    "output": "images-ru/198-ru.png",
+    "original_sha256": "5AEBA8D8889FEDC61AE763D83FEC6F03BB5704E1D899B41B0F779F02AB63CDD9",
+    "output_sha256": "B2796D0111A4E4622B1D207556D247331EFA8578079085BE70F1D691A5F4B4BC",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 199,
+    "original": "originals/图片_20260914092356_199_1.jpg",
+    "output": "images-ru/199-ru.png",
+    "original_sha256": "3FC00E0FB0EACF56BBCE40E5E5B3B7D94DBD4F7E350B58A1781B2D51C0E85391",
+    "output_sha256": "9C29D506F6412F0F5FC1F27A44D6AEB4F3A0BAD4D16AF5291A4E5E65B9AD1041",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 200,
+    "original": "originals/图片_20260914092358_200_1.jpg",
+    "output": "images-ru/200-original.jpg",
+    "original_sha256": "ADAB5AF6060866A1535C8E9F679EB601C2AFF9B4ED2CFCDDFC6D28E8EA2078DD",
+    "output_sha256": "ADAB5AF6060866A1535C8E9F679EB601C2AFF9B4ED2CFCDDFC6D28E8EA2078DD",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 201,
+    "original": "originals/图片_20260914092359_201_1.jpg",
+    "output": "images-ru/201-original.jpg",
+    "original_sha256": "DEDB1566AF3212F57F8BEB00AC1D33AF9ECB5AB09FB770D2A7C5509B0080F205",
+    "output_sha256": "DEDB1566AF3212F57F8BEB00AC1D33AF9ECB5AB09FB770D2A7C5509B0080F205",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 202,
+    "original": "originals/图片_20260914092401_202_1.jpg",
+    "output": "images-ru/202-original.jpg",
+    "original_sha256": "DEDB1566AF3212F57F8BEB00AC1D33AF9ECB5AB09FB770D2A7C5509B0080F205",
+    "output_sha256": "DEDB1566AF3212F57F8BEB00AC1D33AF9ECB5AB09FB770D2A7C5509B0080F205",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 203,
+    "original": "originals/图片_20260914092403_203_1.jpg",
+    "output": "images-ru/203-ru.png",
+    "original_sha256": "B058A35BE1F777F3FF20F8D1B5E0DEC4596A99B1216D837F55CC1FEA74906B85",
+    "output_sha256": "0CF9EBC200E6E1BF391DDF2192F566309B3461B81877C9DBD082E9BCD1BFEF2E",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 204,
+    "original": "originals/图片_20260914092405_204_1.jpg",
+    "output": "images-ru/204-ru.png",
+    "original_sha256": "A5CAC09E0D9F644D4BF0903D4006D19A9FE4251F0B611BDBB014F5A3766DFAF0",
+    "output_sha256": "1B2631E8163E396D8C760CAB71D7E4779951C93F31168A9CF4DD9E47521D49B3",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 205,
+    "original": "originals/图片_20260914092407_205_1.jpg",
+    "output": "images-ru/205-ru.png",
+    "original_sha256": "D88D496276F8637040F502397DD54D2BDF43EAEC24256F8E7567C9677A6421C0",
+    "output_sha256": "44668E6070AEB2E76CBF9D78A0CD7FB9333EC1B25E60A13BFBF5AA4F02DA18AE",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 206,
+    "original": "originals/图片_20260914092408_206_1.jpg",
+    "output": "images-ru/206-ru.png",
+    "original_sha256": "75CE192DC80B3AD3AC9F4929AE9CF42CD8432DBE656247A68A1D989DF7B36BEE",
+    "output_sha256": "FDC26B6929B700C30CA403229D730A18F59E7AC801D0D2502385AC16017F7B8C",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 207,
+    "original": "originals/图片_20260914092411_207_1.jpg",
+    "output": "images-ru/207-ru.png",
+    "original_sha256": "A20442F13AD219C9CA96EECA852B5980D69A502E212F879C6B0E089DFC1A18EE",
+    "output_sha256": "7E9D78831FAAE0EED98B1B52760D2C906DE37B05B1B7BC367F890DAC87B04EF3",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 208,
+    "original": "originals/图片_20260914092412_208_1.jpg",
+    "output": "images-ru/208-ru.png",
+    "original_sha256": "B47278E6F0BE5529635F6AE8F734F41FCB6E6B4E56D3B0BA6B8B602B7C6AD4C1",
+    "output_sha256": "82783FDE6C94B6D143C29135FD7340206E69643CBD8876C62C82EF2E9B48C9D4",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 209,
+    "original": "originals/图片_20260914092414_209_1.jpg",
+    "output": "images-ru/209-ru.png",
+    "original_sha256": "D3B4BAB6A656F8E12E3375E3A5E6962069731974EACCE464BC4242984DC936B2",
+    "output_sha256": "96FA916A5E42AF73E14D71D319493A7AAC04B0EE76B31A9ED2E3114FCEE8A524",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 210,
+    "original": "originals/图片_20260914092416_210_1.jpg",
+    "output": "images-ru/210-ru.png",
+    "original_sha256": "89CBE3ABDC097B65C0BEB4CBA6D092465FEEBA518C8FCEAF1EC7E53842B9D743",
+    "output_sha256": "126DE2CD53FD45019F56ADBB89548DC9043E6C33300900501D98B8BDC66EE80F",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 211,
+    "original": "originals/图片_20260914092418_211_1.jpg",
+    "output": "images-ru/211-original.jpg",
+    "original_sha256": "165AFBF962869E187AF599253D6C3C885B953E2732035CDB61F52904882D3F1C",
+    "output_sha256": "165AFBF962869E187AF599253D6C3C885B953E2732035CDB61F52904882D3F1C",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 212,
+    "original": "originals/图片_20260914092420_212_1.jpg",
+    "output": "images-ru/212-ru.png",
+    "original_sha256": "7B6F9FB8E9842271EB4E4626870A9A112D1900EDBF5E4C96CB1A666C7FAE5D9C",
+    "output_sha256": "03D68C2931E7FD38599E76CCAA97E4235739C10E273481FDAED76B1963AAF971",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 213,
+    "original": "originals/图片_20260914092422_213_1.jpg",
+    "output": "images-ru/213-original.jpg",
+    "original_sha256": "E682BBFFE228070BDDC8649A184AA39177780B185C70A319C17D4FBE9F1A1F33",
+    "output_sha256": "E682BBFFE228070BDDC8649A184AA39177780B185C70A319C17D4FBE9F1A1F33",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 214,
+    "original": "originals/图片_20260914092423_214_1.jpg",
+    "output": "images-ru/214-ru.png",
+    "original_sha256": "3D629D60ECD153C736154E496468939380C47BB1733006E9F02F5C3D5F7589CD",
+    "output_sha256": "610C372F979B989E1328860BEA602F1819F6B6FA125A977979CB9B100DA85DC1",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 215,
+    "original": "originals/图片_20260914092425_215_1.jpg",
+    "output": "images-ru/215-ru.png",
+    "original_sha256": "A082A56BAD5ED9CC2F0CB9849D62140D75119ED89737B626F0C15950516B4448",
+    "output_sha256": "DFDD2A694E5845015864E53EFB0F0EA861FD49ABF1E23AA0AB0778F404E1B720",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 216,
+    "original": "originals/图片_20260914092427_216_1.jpg",
+    "output": "images-ru/216-ru.png",
+    "original_sha256": "105886094D7F57BC0A2E810F5E5C87DBDA2EC4CD55E9A6C85BB2E58BC8436EAB",
+    "output_sha256": "FFF8B31AE3393E9DEC76DAE2C168D124C4B0FAE76FF8A8BE21D54BAD1FBCDD17",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 217,
+    "original": "originals/图片_20260914092429_217_1.jpg",
+    "output": "images-ru/217-ru.png",
+    "original_sha256": "958A8611BE1ED4C178F3CB087BE9A310C19972858443854887FC463CBE5B7D3F",
+    "output_sha256": "51B8391FBD3F44D90A5F4CB796FE6F6026148E3C6F34173CE7B1AFFCA406F0ED",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 218,
+    "original": "originals/图片_20260914092431_218_1.jpg",
+    "output": "images-ru/218-original.jpg",
+    "original_sha256": "16B14B4C47FE29A803BDDCE4CC926B6BF0C0AC2E704E61EE7F2D8E35798FD6C6",
+    "output_sha256": "16B14B4C47FE29A803BDDCE4CC926B6BF0C0AC2E704E61EE7F2D8E35798FD6C6",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 219,
+    "original": "originals/图片_20260914092433_219_1.jpg",
+    "output": "images-ru/219-ru.png",
+    "original_sha256": "99AB507F4FBD2819DD70C05CEBD0C6AE7058A05B47FF98A698DEA11F79FEC2F7",
+    "output_sha256": "4EF277318FCAD7BFFE0F9BA043A5497FCAF69222D8AC6FD9EFDD131FBDBFBE9D",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 220,
+    "original": "originals/图片_20260914092435_220_1.jpg",
+    "output": "images-ru/220-ru.png",
+    "original_sha256": "01712D1C5A9639E2075C6310DFA8CAB8449E01D4E7FE331A475070DD53A67308",
+    "output_sha256": "0A4A703ED36BD67D136B4B30132E11D9E3D77426F5E8EA2F080FD5456C94787D",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 221,
+    "original": "originals/图片_20260914092436_221_1.jpg",
+    "output": "images-ru/221-ru.png",
+    "original_sha256": "24E3DB00334392C24B98719C5BC704D1126513EC90BA723FBDE0526EBAA6F630",
+    "output_sha256": "77836AE04D74ADDDDDFBEE9CF7F836A1EF16938CA17246916672CF755DABC09B",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 222,
+    "original": "originals/图片_20260914092438_222_1.jpg",
+    "output": "images-ru/222-ru.png",
+    "original_sha256": "DAEC5F482E5235300CA92BC92D8E8BFCF94EB334AB25A0206CCE7BF4F36919C0",
+    "output_sha256": "B346AE5EF8CABC6D59D677992723CE2CB43F8CEC16681745D8BE9FD18A301D8A",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 223,
+    "original": "originals/图片_20260914092440_223_1.jpg",
+    "output": "images-ru/223-original.jpg",
+    "original_sha256": "6E1A17BB6E236CB32D0B583AF7AB24BD13A08EB6E29AB01F446EE93FEB2588DD",
+    "output_sha256": "6E1A17BB6E236CB32D0B583AF7AB24BD13A08EB6E29AB01F446EE93FEB2588DD",
+    "treatment": "Unchanged original"
+  },
+  {
+    "number": 224,
+    "original": "originals/图片_20260914092443_224_1.jpg",
+    "output": "images-ru/224-ru.png",
+    "original_sha256": "A89B25794452642E5D3A1F392F2BD2ABFD8028964D14A93CC6222DF44A3935EB",
+    "output_sha256": "6342233037110C9A4BE9B19AF31E1E0CD756D3A3C759A68ED4359909BF076396",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 225,
+    "original": "originals/图片_20260914092447_225_1.jpg",
+    "output": "images-ru/225-ru.png",
+    "original_sha256": "108549B981934DEAC903CD3C330BE7B5695159B4FB5D196562419E1977751956",
+    "output_sha256": "2DD33B020F98438C4182594E86607FF1AF6A9D502AF61F69E4D5A27794574E95",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 226,
+    "original": "originals/图片_20260914092449_226_1.jpg",
+    "output": "images-ru/226-ru.png",
+    "original_sha256": "883257728AFEB58C317E50384464817396244B80A0A14BC4E96388C08A1198C4",
+    "output_sha256": "18844266E986B2137B465E46F4B5D72DF480FA5B2021695C5AA90AEE70944CF1",
+    "treatment": "Russian localization; AI image edit"
+  },
+  {
+    "number": 227,
+    "original": "originals/图片_20260914092733_227_1.jpg",
+    "output": "images-ru/227-ru.png",
+    "original_sha256": "A6F1858D0E7FC2029701733AD98712EB1D17BAA4F82A923249DFA2FC6A922723",
+    "output_sha256": "8C5B5180CD38643F3B0BC658DCF4E9C4BFE4BCC6697591439F19D451F756395D",
+    "treatment": "Russian localization; AI image edit"
+  }
+]
